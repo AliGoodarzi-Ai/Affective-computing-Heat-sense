@@ -1,0 +1,15 @@
+albumentations
+efficientnet_pytorch
+future
+matplotlib
+numpy
+opencv-python
+pandas
+plotly
+scikit-learn
+scipy
+tensorboard
+torch
+torchvision
+tqdm
+wfdb
